@@ -1,5 +1,6 @@
 # Disney Intership Program
 ## Project for Commercial DS Internship
+by Carlos Barbosa
 
 This project was crafted as a component of the selection process for a Disney internship.
 
