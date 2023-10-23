@@ -1,4 +1,4 @@
-# DisneyIntership
+# Disney Intership Program
 ## Project for Commercial DS Internship
 
 This project was crafted as a component of the selection process for a Disney internship.
